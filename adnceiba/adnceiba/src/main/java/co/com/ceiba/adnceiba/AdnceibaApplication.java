@@ -10,5 +10,4 @@ public class AdnceibaApplication {
 		SpringApplication.run(AdnceibaApplication.class, args);
 	}
 
-	  
 }
