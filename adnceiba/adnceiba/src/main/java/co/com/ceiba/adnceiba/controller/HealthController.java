@@ -25,4 +25,6 @@ public class HealthController {
             "message", "¡Hola, " + nombre + "! Bienvenido a la API de ADN Ceiba"
         );
     }
+
+    
 }
